@@ -114,6 +114,7 @@ h1 {
 
 .user-info-container.active{
     display: flex;
+    
 }
 
 .name{
