@@ -58,7 +58,7 @@ h1 {
     color: white; */
     font-size: 0.85rem;
     text-transform: uppercase;
-    border-radius: 5px;
+    border-radius: 6px;
     background-color: var(--colorDark2);
     cursor: pointer;
     padding: 10px 30px;
